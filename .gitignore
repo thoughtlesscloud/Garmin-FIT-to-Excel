@@ -1,4 +1,6 @@
 *.fit
 *.xlsx
-__pycache__/
+FIT_backup/
+pycache__/
 .venv/
+venv/
