@@ -1,0 +1,4 @@
+*.fit
+*.xlsx
+__pycache__/
+.venv/
