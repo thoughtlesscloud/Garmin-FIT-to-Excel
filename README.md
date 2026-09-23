@@ -105,10 +105,8 @@ The script currently recognizes:
 6.	Activity data is added to garmin_activiteiten.xlsx.
 7.	FIT files are saved in the FIT_backup folder.
 8.	Successfully processed ZIP files are removed from Downloads.
-Existing activities are identified using their activity ID, preventing the same activity from being imported twice.
-<br>
-<br>
-<br>
+Existing activities are identified using their activity ID, preventing the same activity from being imported twice.<br>
+
 **Installation**
   	
 Install Python and then install the required packages:
